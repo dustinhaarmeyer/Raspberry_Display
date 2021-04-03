@@ -9,3 +9,5 @@ MyJDownloader Support (https://pypi.org/project/myjdapi/)
 Own Modules to show on the Screen
 Connection with own Program (Should be splitted in Methods in one Class)
 Database (MySQL / MariaDB)
+Module Folder with auto detect
+RFID Tag Security for some modules (or password?)
